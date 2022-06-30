@@ -5,7 +5,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     tools:context=".Activities.LoginActivity"
-    android:background="@color/colorPrimary"
+    android:background="@color/white"
     android:padding="30dp"
     android:transitionName="transition_login"
     android:id="@+id/layoutLogin">
@@ -110,7 +110,7 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:text="Quên mật khẩu"
-                android:background="@color/colorPrimary"
+                android:background="@color/white"
                 style="@style/Widget.AppCompat.Button.Borderless"
                 android:layout_alignParentEnd="true"
                 android:layout_alignParentRight="true"
